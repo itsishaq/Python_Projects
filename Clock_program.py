@@ -1,4 +1,5 @@
 #A clock program to setup.
+#Code by Ishaq
 
 from tkinter import *
 

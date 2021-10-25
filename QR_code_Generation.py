@@ -1,4 +1,5 @@
 #Import the following packages -(pyqrcode, pillow, pyzbar, pypng)
+#Code by Ishaq
 
 import pyqrcode
 

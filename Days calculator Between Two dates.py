@@ -2,6 +2,8 @@ import datetime
 from dateutil import relativedelta
 
 # Create two imaginary or desired dates
+# Here i have given Two sample bday dates
+#any dates cane be preferable here.
 date1 = datetime.date(2003,6,6)
 date2 = datetime.date(2021,12,5)
 

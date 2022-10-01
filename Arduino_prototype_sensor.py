@@ -1,3 +1,7 @@
+// The output of the Python code(QR CODE generation (&) USERNAME AND PASSWORD GENERATION Python code)
+// Will be generated to this ARDUINO PROTOTYPE CODE
+
+
 #include <LiquidCrystal_I2C.h>
 #include <LiquidCrystal_I2C.h>
 LiquidCrystal_I2C lcd(0x27,16,2);
@@ -64,7 +68,6 @@ k=k+1;
 //myservo1.write(90);
 flag1=0, flag2=0;
 }
-
 lcd.setCursor (0,0);
 lcd.print("   WELCOME!   ");
 lcd.setCursor (0,1);

@@ -1,0 +1,6 @@
+https://www.figma.com/file/NyMleUrZz3wmCPwfxoRD5c/QR-Detector?node-id=0%3A1
+
+Refer the above link for accessing the demo app of our prototyppe software app.
+
+1. This demo app will be helpful in demostrating what our prototype app can work.
+2. Kindly refer to the above link.
